@@ -1,7 +1,7 @@
 # Carlemann Linearization of lattice Boltzmann
 This is a repository of MATLAB codes accompanying "Analysis of Carlemann Linearization of Lattice Boltzmann". if you find this work useful in your research, please cite:
 
-Itani, W., Mezzacapo, A., & Succi, S. (2021). *Analysis of Carlemann Linearization of Lattice Boltzmann*.
+Itani, W. & Succi, S. (2021). *Analysis of Carlemann Linearization of Lattice Boltzmann*.
 
 ## LB Code
 This folder contains the variants of the code used for studying and visualizing the Carlemann linearization of the lattice Boltzmann scheme.
