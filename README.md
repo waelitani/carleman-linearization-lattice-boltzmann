@@ -11,7 +11,7 @@ This folder contains the variants of the code used for studying and visualizing 
 2. latticeBoltzmann.m: It returns the collision term ***omega*** for a single phase fluid with BGK equilibrium function for the parameters listed in carlemannBoltzmann.
 3. carlemannLinearize.m: It returns the Carlemann variables *V* and matrices *A* for the different linearization orders of a given function. They are calculated recursively in increasing order to avoid computing terms that do not appear in the equations.
 5. timeStep.m: It returns the function and linearized matrix to compute the next value in time for a first order equation of ***f*** driven by ***omega***. Both implicit and explicit Euler schemes are available.
-6. computeResultsArray.m: It returns cell arrays containing the values of the original variables ***f*** and Carlemann variables ***V** at different times for given initial conditions, relaxation times, and linearization orders.
+6. computeResultsArray.m: It returns cell arrays containing the values of the original variables ***f*** and Carleman variables ***V** at different times for given initial conditions, relaxation times, and linearization orders.
 7. plotSolReg.m: It plots the exact and Carleman-linearized solutions of each discrete density *f_i* with the respective normalized error.
 
 ### postProcessing
