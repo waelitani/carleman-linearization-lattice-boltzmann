@@ -1,5 +1,5 @@
 # Carleman Linearization of lattice Boltzmann
-This is a repository of MATLAB codes accompanying "Analysis of Carleman Linearization of Lattice Boltzmann". if you find this work useful in your research, please cite:
+This is a repository of MATLAB codes accompanying "Analysis of Carleman Linearization of Lattice Boltzmann". If you find this work useful in your research, please cite:
 
 Itani, W. & Succi, S. (2021). *Analysis of Carleman Linearization of Lattice Boltzmann*.
 
